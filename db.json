@@ -50,5 +50,108 @@
       "Cost": "800",
       "id": 5
     }
+  ], "users": [
+    {
+      "username": "Dipak",
+      "avtar": "url",
+      "email": "itsdipakpawar4206@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "username": "itsdipakpaw",
+      "avtar": "fthfnfc",
+      "email": "itsdipakpawar4206@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "username": "Dips",
+      "avtar": ";lkjhgfdsa",
+      "email": "7@gmail.com",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "username": "Dips",
+      "avtar": "trwewq",
+      "email": "7@gmail.com",
+      "password": "11111",
+      "id": 4
+    }
+  ],
+  "blogs": [
+    {
+      "username": "Dips",
+      "title": "iuyhgrfedws",
+      "content": "poiuyjrtgwsqa",
+      "category": "Lifestyle",
+      "date": "2023-02-24",
+      "id": 1
+    },
+    {
+      "username": "Dips",
+      "title": "opiikjhgfd",
+      "content": "[poikjuyhtgrfdtyutyuyiy",
+      "category": "Lifestyle",
+      "date": "2023-02-23",
+      "id": 2
+    },
+    {
+      "username": "Dips",
+      "title": "gyikgyou",
+      "content": "olulujluj",
+      "category": "Lifestyle",
+      "date": "2023-02-07",
+      "id": 3
+    },
+    {
+      "username": "Dips",
+      "title": "ikljiljo",
+      "content": "l;jol.oj;.j.;",
+      "category": "Tech",
+      "date": "2023-02-23",
+      "id": 4
+    },
+    {
+      "username": "Dips",
+      "title": "yuiyukigyi",
+      "content": "kuiluoluol;oj",
+      "category": "Lifestyle",
+      "date": "2023-02-11",
+      "id": 5
+    },
+    {
+      "username": "Dips",
+      "title": "ikil",
+      "content": "kllkll",
+      "category": "Tech",
+      "date": "2023-02-08",
+      "id": 6
+    },
+    {
+      "username": "Dips",
+      "title": "Blog No 2",
+      "content": "drgldiguheigh 98ryt9e8rty9et et89yer98gyr98eg 9er8y9er8ty 9g98ty98rg9y er98tgur98gy er9g8yed98yg dg98dyg9f8yg f08uth908rfhtrhrrth",
+      "category": "Entertainment",
+      "date": "2023-02-15",
+      "id": 7
+    },
+    {
+      "username": "Dips",
+      "title": "blog 5 ",
+      "content": "dgougieughaeurhg9uaerh aer9p8tyae9r8ty aert08eyt98v 39485y98tisrufgsdi w9pe8rysd fioh uu iuhsdofguh ouh siduhb 9sd8fsrty",
+      "category": "Business",
+      "date": "2023-03-22",
+      "id": 8
+    },
+    {
+      "username": "Dips",
+      "title": "eartgelahrg 76rte jhfgvstfvsd dorytse ret",
+      "content": "rstyurdtiuytq7aetv8rseyv46v",
+      "category": "Business",
+      "date": "2023-02-24",
+      "id": 9
+    }
   ]
 }
