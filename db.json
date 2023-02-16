@@ -50,21 +50,8 @@
       "Cost": "800",
       "id": 5
     }
-  ], "users": [
-    {
-      "username": "Dipak",
-      "avtar": "url",
-      "email": "itsdipakpawar4206@gmail.com",
-      "password": "1234",
-      "id": 1
-    },
-    {
-      "username": "itsdipakpaw",
-      "avtar": "fthfnfc",
-      "email": "itsdipakpawar4206@gmail.com",
-      "password": "123456",
-      "id": 2
-    },
+  ],
+  "users": [
     {
       "username": "Dips",
       "avtar": ";lkjhgfdsa",
@@ -152,6 +139,138 @@
       "category": "Business",
       "date": "2023-02-24",
       "id": 9
+    }
+  ],
+  "stockappUsers": [
+    {
+      "username": "dipakpawar",
+      "email": "itsdipakpawar4206@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "username": "itsDipaks",
+      "email": "6@gmail.com",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "username": "itsDipaks",
+      "email": "itsdipakpawar4206@gmail.com",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "username": "dipakpawar",
+      "email": "itsdipakpawar4206@gmail.com",
+      "password": "111",
+      "id": 4
+    }
+  ],
+  "companies": [
+    {
+      "company_name": "Relance",
+      "company_type": "IT",
+      "stock_exchange": "NSE",
+      "total_shares": "12000",
+      "cost_per_share": "1200",
+      "price_action": "154",
+      "id": 1
+    },
+    {
+      "company_name": "tata",
+      "company_type": "Automobile",
+      "stock_exchange": "BSE",
+      "total_shares": "7025555",
+      "cost_per_share": "4200",
+      "price_action": "456",
+      "id": 2
+    },
+    {
+      "company_name": "MRF",
+      "company_type": "Automobile",
+      "stock_exchange": "BSE",
+      "total_shares": "1200",
+      "cost_per_share": "42000",
+      "price_action": "23",
+      "id": 3
+    },
+    {
+      "company_name": "Masai",
+      "company_type": "IT",
+      "stock_exchange": "BSE",
+      "total_shares": "12000",
+      "cost_per_share": "1250",
+      "price_action": "452",
+      "id": 4
+    },
+    {
+      "company_name": "Adani Power",
+      "company_type": "Oil",
+      "stock_exchange": "NSE",
+      "total_shares": "466855555",
+      "cost_per_share": "4000",
+      "price_action": "1145",
+      "id": 5
+    },
+    {
+      "company_name": "Mahindra",
+      "company_type": "Automobile",
+      "stock_exchange": "BSE",
+      "total_shares": "14522",
+      "cost_per_share": "2344",
+      "price_action": "445",
+      "id": 6
+    },
+    {
+      "company_name": "State bank India",
+      "company_type": "Bank",
+      "stock_exchange": "NSE",
+      "total_shares": "145228888",
+      "cost_per_share": "23445",
+      "price_action": "44555",
+      "id": 7
+    },
+    {
+      "company_name": "Axis Bank",
+      "company_type": "Bank",
+      "stock_exchange": "NSE",
+      "total_shares": "145255",
+      "cost_per_share": "234",
+      "price_action": "44555",
+      "id": 8
+    }
+  ],
+  "PerchesedStock": [
+    {
+      "company_name": "tata",
+      "company_type": "Automobile",
+      "stock_exchange": "BSE",
+      "total_shares": "7025555",
+      "cost_per_share": "4200",
+      "price_action": "456",
+      "id": 2,
+      "buyCountstock": "42"
+    },
+    {
+      "company_name": "MRF",
+      "company_type": "Automobile",
+      "stock_exchange": "BSE",
+      "total_shares": "1200",
+      "cost_per_share": "42000",
+      "price_action": "23",
+      "id": 3,
+      "buyCountstock": "14"
+    },
+    {
+      "company_name": "Relance",
+      "company_type": "IT",
+      "stock_exchange": "NSE",
+      "total_shares": "12000",
+      "cost_per_share": "1200",
+      "price_action": "154",
+      "id": 1,
+      "buyCountstock": "15"
     }
   ]
 }
