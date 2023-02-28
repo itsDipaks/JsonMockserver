@@ -1,28 +1,132 @@
 {
-  "Quiz": [],
-  "QuizUser": [
+  "jobs": [
     {
-      "username": "dipakpawar",
-      "Category": "General",
-      "Difficulty": "General",
-      "countqs": "10",
+      "CompanyName": "Devops",
+      "CityName": "Nashik",
+      "Location": "Nashik city",
+      "Role": "Frontend",
+      "Level": "Junior",
+      "Postion": "Junior_Frontend_Developer",
+      "Language": "Javascript",
+      "Contract": "fulltime",
+      "Date": "2023-02-28T12:40",
       "id": 1
     },
-    
     {
-      "username": "dipakpawar",
-      "Category": "option2",
-      "Difficulty": "General",
-      "countqs": "10",
+      "CompanyName": "DevopsOne",
+      "CityName": "Nashik",
+      "Location": "Sinner",
+      "Role": "Backend",
+      "Level": "Senior",
+      "Postion": "Junior_Frontend_Developer",
+      "Language": "Javascript",
+      "Contract": "fulltime",
+      "Date": "2023-02-16T18:26",
       "id": 2
     },
-
     {
-      "username": "dipakpawar",
-      "Category": "option2",
-      "Difficulty": "General",
-      "countqs": "10",
+      "CompanyName": "Developer hub",
+      "CityName": "Mumbai",
+      "Location": "Airoli",
+      "Role": "Fullstack",
+      "Level": "Junior",
+      "Postion": "  FSD ",
+      "Language": "Javascript",
+      "Contract": "fulltime",
+      "Date": "2023-02-25T17:28",
       "id": 3
+    },
+    {
+      "CompanyName": "MultiFunctions",
+      "CityName": "Bangaloru",
+      "Location": "Hubali",
+      "Role": "Backend",
+      "Level": "Senior",
+      "Postion": "Backend_Developer",
+      "Language": "Java",
+      "Contract": "parttime",
+      "Date": "2023-03-23T13:44",
+      "id": 4
+    },
+    {
+      "CompanyName": "Masai School",
+      "CityName": "Bangalore",
+      "Location": "Bangalore ",
+      "Role": "Fullstack",
+      "Level": "Junior",
+      "Postion": "  FSD ",
+      "Language": "Javascript",
+      "Contract": "fulltime",
+      "Date": "2023-02-09T13:45",
+      "id": 5
+    },
+   
+    {
+      "CompanyName": "MyDeveloper",
+      "CityName": "Sinner",
+      "Location": "Sinner City",
+      "Role": "Fullstack",
+      "Level": "Senior",
+      "Postion": "  FSD ",
+      "Language": "Java",
+      "Contract": "fulltime",
+      "Date": "2023-02-28T14:53",
+      "id": 7
+    },
+    {
+      "CompanyName": "Devops",
+      "CityName": "Bangaloru",
+      "Postion": "Junior_Frontend_Developer",
+      "Role": "Fullstack",
+      "Level": "Junior",
+      "Language": "Javascript",
+      "Contract": "parttime",
+      "Date": "2023-02-17T15:06",
+      "id": 8
+    },
+    {
+      "CompanyName": "MyDevHops ",
+      "CityName": "Mumbai",
+      "Postion": " Junior_Backend_Developer",
+      "Role": "Backend",
+      "Level": "Junior",
+      "Language": "Javascript",
+      "Contract": "fulltime",
+      "Date": "2023-02-22T15:04",
+      "id": 9
+    },
+    {
+      "CompanyName": "MyHops",
+      "CityName": "Mumbai",
+      "Postion": " Junior_Backend_Developer",
+      "Role": "Backend",
+      "Level": "Senior",
+      "Language": "Javascript",
+      "Contract": "fulltime",
+      "Date": "2023-02-28T15:11",
+      "id": 10
+    },
+    {
+      "CompanyName": "ySolutions",
+      "CityName": "Mumbai",
+      "Postion": "Junior_Frontend_Developer",
+      "Role": "Frontend",
+      "Level": "Junior",
+      "Language": "Javascript",
+      "Contract": "fulltime",
+      "Date": "2023-02-28T19:09",
+      "id": 11
+    },
+    {
+      "CompanyName": "RelanceSolution",
+      "CityName": "Mumbai",
+      "Postion": " Junior_Backend_Developer",
+      "Role": "Backend",
+      "Level": "Junior",
+      "Language": "Java",
+      "Contract": "fulltime",
+      "Date": "2023-02-16T18:15",
+      "id": 12
     }
   ]
 }
